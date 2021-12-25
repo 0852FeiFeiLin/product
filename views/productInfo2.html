@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>京东商城</title>
+    {{/*   <link rel="stylesheet" href="/static/css/productInfo2.css">*/}}
+    <style>
+        .JDlogo {
+            width: 100px;
+            height: 70px;
+        }
+    </style>
+    <link rel="stylesheet" href="/static/css/productInfo.css">
+    <script src="/static/js/jquery-3.3.1.min.js"></script>
+    <script src="/static/js/productInfo.js"></script>
+
+</head>
+<body>
+{{template "header.html".}}
+<img src="/static/img/jingdongimg/JDLogo.png" alt="" class="JDlogo">
+
+{{.ProductName }}
+<div class="productInfoBox">
+    {{range .ProductInfo}}
+        <div class="id" id="id">
+            {{.Id}}
+        </div>
+        <input type="hidden" value="{{.Id}}" id="proId">
+        <div class="productName">
+            <h2>{{.ProductName}}</h2>
+        </div>
+        <div class="producer">{{.Producer}}</div>
+        <div class="price">￥{{.Price}}元</div>
+        <div class="createTime">{{.CreateTime}}</div>
+        <div class="content">{{.Content}}</div>
+        <div class="xiangqing" align="center"><a href="https://dumall.baidu.com/">商品详情</a></div>
+
+        <!-- 显示详情图片-->
+        <!-- <img src="/static/img/xiaoduimg/pro{{.Id}}/bg{{.Id}}.png" alt=""> -->
+    {{end}}
+
+    <!-- 这个是验证用户是否登录的-->
+    <input type="hidden" value="{{.IsLogin}}" id="isLogin">
+    <div class="shopping">
+        <div class="price" id="price">￥{{.Price}}元</div>
+        <button class="jiaru" id="jiaru">加入购物车</button>
+        <button class="xiadan">立即下单</button>
+    </div>
+</div>
+<!-- 引入toCart，去购物车，小弹窗-->
+{{template "toCart.html".}}
+
+<!--引入页脚 -->
+{{template "footer.html".}}
+</body>
+</html>

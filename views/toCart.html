@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>toCaart</title>
+
+    <link rel="stylesheet" href="/static/css/productInfo.css">
+    <script src="/static/js/jquery-3.3.1.min.js"></script>
+    <script src="/static/js/productInfo.js"></script>
+
+</head>
+<body>
+
+<div class="pop" id="pop">
+
+    <div class="goto-cart" id="goto_cart">
+        <div class="dialog-head" align="right"><i class="header-close" id="header-close">×</i></div>
+        <img class="img" src="https://dumall.baidu.com/img/add_success.bb2d36951260842394346fd6ce2151d5.png" width="52"
+             height="52">
+        <!-- 成功说明-->
+        <div class="textInfo">
+            <p class="title font-regular">已添加至购物车，请尽快结算哦</p>
+        </div>
+        <!--商品图片 -->
+        <div class="pro-img"><img src="" alt=""></div>
+        <!--产品名称 -->
+        {{range .ProductInfo}}
+            <div class="proname">{{.ProductName}}</div>
+        {{end}}
+        <!-- 价格-->
+        <div class="price">￥{{.Price}}元</div>
+        <!--去购物车 -->
+        <div class="to-cart"><a href="/shoppingCart.html">
+                <button class="toCart">去购物车</button>
+            </a></div>
+    </div>
+</div>
+
+</body>
+</html>

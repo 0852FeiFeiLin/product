@@ -1,0 +1,679 @@
+2021/12/25 09:57:12.319 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:13.379 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:14.506 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:16.416 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:17.713 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:18.825 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:19.922 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:21.128 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:22.408 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:23.674 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:24.948 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:26.235 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:27.388 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:28.444 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:29.603 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:30.676 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:31.689 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:32.761 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:33.835 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:34.915 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:36.003 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 09:57:37.081 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 10:21:30.619 [E] [user.go:74]  invalid connection
+2021/12/25 10:21:30.619 [E] [userModels.go:30]  invalid connection
+2021/12/25 10:21:40.379 [E] [user.go:74]  dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+2021/12/25 10:21:40.382 [E] [userModels.go:30]  dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+2021/12/25 11:13:20.592 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:21.905 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:23.037 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:24.110 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:25.201 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:26.239 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:27.390 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:28.506 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:29.561 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:30.689 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:31.758 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:32.921 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:33.963 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:35.128 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:36.219 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:37.386 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:38.354 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:39.449 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:40.541 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:41.598 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:42.671 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:13:43.607 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:28:26.963 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:35:09.063 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:39:44.057 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:39:45.098 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 11:55:29.828 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:55:29.829 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:55:29.829 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:55:29.832 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:55:29.832 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:55:29.832 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:55:29.832 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:55:29.833 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:55:29.835 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:55:29.835 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:55:29.835 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:55:29.835 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:56:21.377 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:56:21.377 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:56:21.377 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:56:21.378 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:56:21.378 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:56:21.379 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:56:21.379 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:56:21.380 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:56:21.380 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:56:21.381 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:56:21.381 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:56:21.382 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:57:25.939 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:57:25.939 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:57:25.939 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:57:25.941 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:57:25.941 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:57:25.943 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:57:25.943 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:57:25.943 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:57:25.944 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:57:25.944 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:57:25.944 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:57:25.944 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:57:31.031 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:57:31.033 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:57:31.034 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:57:31.035 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:57:31.036 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:57:31.037 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:57:31.037 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:57:31.037 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:57:31.038 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:57:31.038 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:57:31.038 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:57:31.038 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:58:13.978 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:58:13.978 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:58:13.980 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:58:13.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:58:13.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:58:13.981 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:58:13.981 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:58:13.981 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:58:13.981 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:58:13.981 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:58:13.981 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:58:13.982 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:58:15.573 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:58:15.574 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:58:15.574 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:58:15.575 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:58:15.575 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:58:15.575 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:58:15.576 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:58:15.576 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:58:15.576 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:58:15.577 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:58:15.577 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:58:15.578 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:58:38.093 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:58:38.097 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:58:38.099 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:58:38.100 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:58:38.100 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:58:38.101 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:58:38.101 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:58:38.101 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:58:38.102 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:58:38.102 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:58:38.102 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:58:38.102 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:58:40.379 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:58:40.379 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:58:40.380 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:58:40.380 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:58:40.381 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:58:40.382 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:58:40.382 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:58:40.382 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:58:40.383 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:58:40.383 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:58:40.383 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:58:40.385 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:58:54.453 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:58:54.453 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:58:54.454 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:58:54.454 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:58:54.455 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:58:54.455 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:58:54.456 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:58:54.456 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:58:54.456 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:58:54.457 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:58:54.457 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:58:54.458 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:58:58.639 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:58:58.639 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:58:58.639 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:58:58.639 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:58:58.639 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:58:58.639 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:58:58.640 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:58:58.640 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:58:58.641 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:58:58.641 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:58:58.641 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:58:58.641 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:59:00.570 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 11:59:00.570 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 11:59:00.571 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 11:59:00.571 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 11:59:00.571 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 11:59:00.571 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 11:59:00.571 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 11:59:00.572 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 11:59:00.572 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 11:59:00.572 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 11:59:00.572 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 11:59:00.573 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 11:59:55.626 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:00:28.519 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:00:45.894 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:03:46.780 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:03:47.799 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:03:48.924 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:13:11.590 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:13:12.605 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:13:14.597 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:13:16.326 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:14:22.772 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:14:22.772 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:14:22.772 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:14:22.772 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:14:22.772 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:14:22.773 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:14:22.773 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:14:22.773 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:14:22.773 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:14:22.773 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:14:22.774 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:14:22.774 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:14:25.871 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:14:25.871 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:14:25.873 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:14:25.873 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:14:25.873 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:14:25.873 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:14:25.873 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:14:25.874 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:14:25.874 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:14:25.874 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:14:25.874 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:14:25.875 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:15:58.089 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:15:58.089 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:15:58.089 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:15:58.090 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:15:58.090 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:15:58.092 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:15:58.093 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:15:58.093 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:15:58.094 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:15:58.094 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:15:58.094 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:15:58.094 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:16:00.816 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:16:00.818 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:16:00.819 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:16:00.819 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:16:00.820 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:16:00.820 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:16:00.820 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:16:00.820 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:16:00.822 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:16:00.822 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:16:00.822 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:16:00.823 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:16:14.757 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:16:14.757 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:16:14.757 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:16:14.759 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:16:14.760 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:16:14.760 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:16:14.760 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:16:14.761 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:16:14.761 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:16:14.761 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:16:14.761 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:16:14.761 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:17:27.632 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:17:27.632 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:17:27.632 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:17:27.632 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:17:27.632 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:17:27.632 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:17:27.633 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:17:27.633 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:17:27.633 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:17:27.633 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:17:27.633 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:17:27.634 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:17:31.999 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:17:31.999 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:17:32.000 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:17:32.000 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:17:32.001 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:17:32.002 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:17:32.003 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:17:32.003 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:17:32.004 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:17:32.004 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:17:32.004 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:17:32.005 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:17:45.837 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:47.029 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:48.433 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:49.465 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:50.580 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:51.663 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:51.714 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:17:51.714 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:17:51.714 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:17:51.714 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:17:51.715 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:17:51.715 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:17:51.715 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:17:51.715 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:17:51.715 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:17:51.716 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:17:51.716 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:17:51.717 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:17:52.533 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:53.530 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:54.592 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:55.623 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:56.687 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:56.840 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:17:56.840 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:17:56.840 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:17:56.841 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:17:56.841 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:17:56.841 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:17:56.841 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:17:56.841 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:17:56.842 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:17:56.842 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:17:56.842 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:17:56.842 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:17:57.715 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:58.786 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:17:59.739 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:18:00.835 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:18:01.748 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:18:02.732 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:18:03.764 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:18:26.481 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:18:26.481 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:18:26.482 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:18:26.483 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:18:26.483 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:18:26.485 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:18:26.485 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:18:26.485 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:18:26.486 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:18:26.486 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:18:26.487 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:18:26.489 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:19:04.883 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:19:04.883 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:19:04.884 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:19:04.884 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:19:04.885 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:19:04.885 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:19:04.885 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:19:04.885 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:19:04.886 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:19:04.886 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:19:04.887 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:19:04.887 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:21:35.916 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:21:53.761 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:22:02.367 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:22:58.123 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:22:58.229 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:22:58.229 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:22:58.229 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:22:58.230 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:22:58.230 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:22:58.230 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:22:58.230 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:22:58.231 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:22:58.231 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:22:58.231 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:22:58.231 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:22:58.231 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:24:49.850 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:25:10.937 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:25:10.937 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:25:10.937 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:25:10.938 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:25:10.938 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:26:16.229 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:27:25.274 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:27:58.940 [E] [product.go:96]  <QuerySeter> no row found
+2021/12/25 12:27:58.941 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:27:58.941 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:27:58.941 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:27:58.941 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:27:58.941 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:27:58.941 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:27:58.941 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:27:58.942 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:27:58.942 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:27:58.942 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:27:58.942 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:27:58.942 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:29:20.601 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:34:37.485 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:35:12.339 [E] [product.go:96]  <QuerySeter> no row found
+2021/12/25 12:35:12.340 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:35:12.340 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:35:12.341 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:35:12.341 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:36:11.472 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:36:20.369 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:36:40.089 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:36:40.089 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:36:40.089 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:36:40.089 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:36:40.090 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:36:40.091 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:37:05.126 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:37:05.127 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:37:05.127 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:37:05.127 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:41:07.693 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:41:08.767 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:43:05.726 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:43:59.390 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:44:19.404 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:44:20.322 [E] [productInfoController.go:47]  strconv.Atoi: parsing "": invalid syntax
+2021/12/25 12:44:22.038 [E] [productInfoController.go:47]  strconv.Atoi: parsing "": invalid syntax
+2021/12/25 12:44:41.565 [E] [productInfoController.go:47]  strconv.Atoi: parsing "": invalid syntax
+2021/12/25 12:45:42.312 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:46:11.814 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:46:12.868 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:46:17.606 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:47:59.979 [E] [product.go:96]  <QuerySeter> no row found
+2021/12/25 12:47:59.979 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:47:59.979 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:47:59.980 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:47:59.981 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:49:09.173 [E] [product.go:96]  <QuerySeter> no row found
+2021/12/25 12:49:09.174 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:49:09.174 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:49:09.174 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:49:09.175 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:50:40.631 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:51:07.160 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:51:29.295 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:51:30.382 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:51:45.827 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:52:43.862 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:52:43.862 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:52:43.863 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:52:43.863 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:52:43.863 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:52:43.863 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:52:43.863 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:52:43.863 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:52:43.864 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:52:43.864 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:52:43.864 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:52:43.864 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:53:40.054 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:53:40.820 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:53:40.820 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:53:40.820 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:53:40.820 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:53:40.821 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:53:40.821 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:53:40.821 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:53:40.821 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:53:40.821 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:53:40.821 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:53:40.822 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:53:40.822 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:54:45.013 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:54:45.013 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:54:45.014 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:54:45.015 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:54:45.015 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:55:33.809 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 12:55:56.105 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 12:55:56.105 [C] [panic.go:969]  Handler crashed with error can't find templatefile in the path:views/ajaxcontroller/searchpro.tpl
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/template.go:73
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:264
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:215
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/controller.go:195
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:859
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 12:55:56.105 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 12:55:56.105 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 12:56:39.973 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:00:16.673 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:01:33.878 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:01:38.851 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:01:42.519 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:02:57.414 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:03:26.898 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:03:29.570 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:03:31.294 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:05:26.310 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:07:21.553 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:13:25.665 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:16:31.030 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:17:16.000 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:18:03.040 [E] [product.go:96]  <QuerySeter> no row found
+2021/12/25 13:18:03.052 [E] [product.go:72]  <QuerySeter> no row found
+2021/12/25 13:18:03.052 [E] [productInfoController.go:56]  strconv.ParseInt: parsing "": invalid syntax
+2021/12/25 13:29:23.892 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:24.724 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:25.781 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:26.900 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:27.933 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:28.943 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:30.019 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:31.124 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:32.197 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:33.208 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:34.273 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:35.372 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:36.508 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:37.550 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:38.697 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:39.672 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:40.804 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:29:41.921 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:32:49.127 [C] [panic.go:969]  the request url is  /productInfo
+2021/12/25 13:32:49.127 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:32:49.127 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:32:49.128 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:32:49.128 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:32:49.128 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:32:49.128 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:64
+2021/12/25 13:32:49.129 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:30
+2021/12/25 13:32:49.130 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/productInfoController.go:51
+2021/12/25 13:32:49.130 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:32:49.134 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:32:49.134 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:32:49.134 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:32:49.134 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:32:49.134 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:32:49.135 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:32:54.707 [C] [panic.go:969]  the request url is  /productInfo
+2021/12/25 13:32:54.707 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:32:54.707 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:32:54.707 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:32:54.707 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:64
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:30
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/productInfoController.go:51
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:32:54.708 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:32:54.709 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:32:54.709 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:32:54.709 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:32:54.709 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:34:29.015 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:34:41.533 [C] [panic.go:969]  the request url is  /productInfo
+2021/12/25 13:34:41.533 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:64
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:30
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/productInfoController.go:51
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:34:41.533 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:34:41.534 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:35:47.904 [C] [panic.go:969]  the request url is  /productInfo
+2021/12/25 13:35:47.904 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:64
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:30
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/productInfoController.go:51
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:35:47.904 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:35:47.905 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:35:51.625 [C] [panic.go:969]  the request url is  /productInfo
+2021/12/25 13:35:51.625 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:64
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:30
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/productInfoController.go:51
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:35:51.625 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:35:51.626 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:35:51.626 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:35:51.626 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:35:51.626 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:36:26.069 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 13:36:26.069 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:93
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:106
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/ajaxController.go:74
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:36:26.069 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:36:26.070 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:36:26.070 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:36:26.070 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:36:27.391 [C] [panic.go:969]  the request url is  /searchPro
+2021/12/25 13:36:27.391 [C] [panic.go:969]  Handler crashed with error Raw value: `9.9` convert to `*int` failed, field: product/entity.Product.Price err: strconv.ParseInt: parsing "9.9": invalid syntax
+2021/12/25 13:36:27.391 [C] [panic.go:969]  D:/Go/src/runtime/panic.go:969
+2021/12/25 13:36:27.392 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1194
+2021/12/25 13:36:27.392 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/db.go:1009
+2021/12/25 13:36:27.392 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/orm/orm_queryset.go:212
+2021/12/25 13:36:27.393 [C] [panic.go:969]  D:/GoPATH/src/product/entity/product.go:93
+2021/12/25 13:36:27.393 [C] [panic.go:969]  D:/GoPATH/src/product/models/productModels.go:106
+2021/12/25 13:36:27.393 [C] [panic.go:969]  D:/GoPATH/src/product/controllers/ajaxController.go:74
+2021/12/25 13:36:27.394 [C] [panic.go:969]  D:/Go/src/reflect/value.go:476
+2021/12/25 13:36:27.394 [C] [panic.go:969]  D:/Go/src/reflect/value.go:337
+2021/12/25 13:36:27.394 [C] [panic.go:969]  D:/GoPATH/src/github.com/astaxie/beego/router.go:847
+2021/12/25 13:36:27.394 [C] [panic.go:969]  D:/Go/src/net/http/server.go:2843
+2021/12/25 13:36:27.394 [C] [panic.go:969]  D:/Go/src/net/http/server.go:1925
+2021/12/25 13:36:27.395 [C] [panic.go:969]  D:/Go/src/runtime/asm_amd64.s:1374
+2021/12/25 13:36:27.395 [server.go:3093]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:221)
+2021/12/25 13:43:18.129 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:43:19.163 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:47:16.054 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:50:44.175 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 13:52:06.446 [E] [product.go:96]  <QuerySeter> no row found
+2021/12/25 13:52:06.454 [E] [product.go:72]  <QuerySeter> no row found
+2021/12/25 13:52:06.455 [E] [productInfoController.go:56]  strconv.ParseInt: parsing "": invalid syntax
+2021/12/25 14:06:05.750 [I] [asm_amd64.s:1374]  http server Running on http://:8080
+2021/12/25 14:06:06.808 [I] [asm_amd64.s:1374]  http server Running on http://:8080

@@ -1,0 +1,140 @@
+/*用户注册*/
+.regist {
+    width: 1000px;
+    height: 550px;
+    margin: 20px auto;
+    background: #fff;
+    color: #000;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.regist_center {
+    width: 760px;
+    margin: 10px auto;
+}
+
+.regist .regist_top {
+    margin: 10px 0;
+}
+
+.regist .regist_top .left {
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.regist .regist_top .right {
+    height: 40px;
+    line-height: 40px;
+    font-size: 13px;
+}
+
+.regist .regist_top .right a {
+    color: #ff6700;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.regist .regist_top .right a:hover {
+    color: orange;
+}
+
+.xian {
+    height: 2px;
+    background: #ff6700;
+    margin: 8px auto;
+}
+
+.regist_main {
+    padding: 10px 0;
+    padding-left: 45px;
+}
+
+.regist_main .username {
+    font: 16px Times New Roman;
+    height: 40px;
+    line-height: 40px;
+    margin: 20px 0;
+}
+
+.regist_main .username .shurukuang {
+    width: 220px;
+    height: 30px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+}
+
+.regist_main .username .yanzhengma {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+}
+
+.regist_main .username .shurukuang:focus {
+    border: 1px solid blue;
+    background: #F0FFFF;
+}
+
+.regist_main .username .yanzhengma:focus {
+    border: 1px solid blue;
+    background: #F0FFFF;
+}
+
+.regist_main .username .right {
+    margin-left: 20px;
+}
+
+.regist_main .username span {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 12px;
+    color: #ccc;
+    font-weight: bold;
+}
+
+.regist_main .username span:hover {
+    color: #ff6700;
+}
+
+.regist .regist_center .regist_submit {
+    margin: 20px auto;
+}
+
+.regist .regist_center .submit {
+    border: none;
+    width: 440px;
+    height: 45px;
+    margin-left: 45px;
+    background: #ff6700;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 8px;
+    cursor: pointer;
+}
+
+.regist .regist_center .submit:hover {
+    border: 1px solid #ccc;
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    padding: 30px 0;
+}
+
+footer .copyright {
+    height: 30px;
+    line-height: 30px;
+    font-size: 13px;
+    word-spacing: 15px;
+    text-align: center;
+}
+
+footer .copyright:first-of-type {
+    margin-top: 10px;
+}

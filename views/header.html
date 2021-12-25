@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/css/product.css">
+</head>
+<body>
+
+<header class="top">
+    <div class="left" id="left">
+        <ul class="f1">
+            <li class="xiaodu"><a href="https://dumall.baidu.com/">小度商城</a></li>
+            <li>|</li>
+            <li><a href="/product.html">首页</a></li>
+            <div class="clear"></div>
+        </ul>
+    </div>
+    <div class="right">
+        {{if .IsLogin}}
+            <div class="r1">
+                <ul>
+                    <div class="gouwuche" align="right"><a href="/shoppingCart.html">购物车</a></div>
+                    <li><a href="">消息通知</a></li>
+                    <li class="exit"><a href="/exit">退出</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        {{else}}
+            <div class="r1">
+                <ul>
+                    <li><a href="./login.html" target="_blank">登录</a></li>
+                    <li>|</li>
+                    <li><a href="./register.html" target="_blank">注册</a></li>
+                    <li>|</li>
+                    <li><a href="">消息通知</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        {{end}}
+        <!-- 结合session
+        <img src="../static/img/gouwuche.png" alt="">
+         -->
+
+    </div>
+</header>
+</body>
+</html>

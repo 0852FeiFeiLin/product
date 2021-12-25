@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+			* {
+				margin: 0px;
+				padding: 0px;
+				text-decoration: none;
+				list-style: none;
+			}
+			table{
+				margin: auto;
+				margin-top: 100px;
+			}
+		</style>
+		<script src="/static/js/jquery-3.3.1.min.js"></script>
+	</head>
+	<body>
+	{{template "header.html".}}
+
+		<table width="400px" border="1px" cellspacing="0px" >
+			<th>商品</th>
+			<th>单价(元)</th>
+			<th>数量</th>
+			<tr>
+				<td>{{.ProductName}}</td>
+				<td>{{.Price}}</td>
+				<td>
+					<button>+</button>
+					<span>1</span>
+					<button>-</button>
+				</td>
+			</tr>
+			<tr>
+				<td>{{.ProductName1}}</td>
+				<td>{{.Price1}}</td>
+				<td>
+					<button>+</button>
+					<span>1</span>
+					<button>-</button>
+				</td>
+			</tr>{{/*
+			<tr>
+				<td>一条裙子</td>
+				<td>200</td>
+				<td>
+					<button>+</button>
+					<span>1</span>
+					<button>-</button>
+				</td>
+			</tr>*/}}
+			<tr>
+				<td  align="right" colspan="3">总价:</td>
+			</tr>
+		</table>
+	</body>
+	<script>
+		/*
+		 * $("td:nth-child(2)"),选择器：
+		 * 		获取元素的父元素的第几个孩子，从1开始
+		 * 		获取td的父元素的第2个孩子
+		 * 
+		 * step1：计算总价
+		 * 
+		 * step2：点击添加
+		 * 
+		 * step3：点击减少
+		 */
+		$(function(){
+			//1.计算总价
+			var sum=0;
+			$("td:nth-child(2)").each(function(){
+				var price=$(this).text();
+				price=parseInt(price);
+				console.log(price);
+				sum+=price;
+				
+			})
+			console.log(sum);
+			//将计算的价格加在总价td上
+			$("td:contains(总价)").html("总价："+sum+"元")
+			//2，点击添加按钮
+			//price -->sum ,span,累加
+			$("button:contains(+)").click(function(){
+				//获取单价
+				var price=parseInt($(this).parent().prev().text())//他之前的同级元素
+				console.log(price)
+				//累加在总价sum上
+				var sumStr=$("td:contains(总价)").text();
+				sum=sumStr.substring(3,sumStr.length-1);//: 开始到 元 之前
+				sum=parseInt(sum);
+				sum+=price;//总价+单价
+				//显示在页面上
+				$("td:contains(总价)").text("总价："+sum+"元")
+				//修改数量span的值
+				var num=parseInt($(this).next().text());//此按钮的下一个元素则为数量值
+				num++;
+				$(this).next().text(num)
+			})
+		    //点击减少操作
+			$("button:contains(-)").click(function(){
+				//获取单价
+				var price=parseInt($(this).parent(	).prev().text());
+				console.log(price);
+				//判断span的值从而计算
+				var num=parseInt($(this).prev().text())//之前的一个元素
+				console.log(num)
+				
+				//从sum上减去单价
+				if(num>0){
+					var sumStr=$("td:contains(总价)").text();
+					sum=sumStr.substring(3,sumStr.length-1);
+					sum=parseInt(sum)
+					sum-=price;//总价-单价
+					//显示在页面上
+					$("td:contains(总价)").text("总价："+sum+"元");
+					//修改span数量的值
+					num--;
+					$(this).prev().text(num)
+				}else{
+					alert("不能再减了。。。")
+				}
+			})
+		
+		})
+		    
+	</script>
+</html>
