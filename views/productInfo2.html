@@ -13,13 +13,11 @@
     <link rel="stylesheet" href="/static/css/productInfo.css">
     <script src="/static/js/jquery-3.3.1.min.js"></script>
     <script src="/static/js/productInfo.js"></script>
-
 </head>
 <body>
 {{template "header.html".}}
 <img src="/static/img/jingdongimg/JDLogo.png" alt="" class="JDlogo">
 
-{{.ProductName }}
 <div class="productInfoBox">
     {{range .ProductInfo}}
         <div class="id" id="id">

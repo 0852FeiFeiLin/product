@@ -17,7 +17,7 @@ import (
 /*
 	orm操作数据库，增删改查
 	解耦：userModules ---> dbUtils --->database
-	orm解耦：models ---> orm ---> database
+	orm已解耦：models ---> orm ---> database  (因为orm就相当于是中间件了)
 */
 /*
 	查询：传递有数据的结构体过来，然后我们在这里面，根据具体的结构体数据去限定查询条件，然后返回结果集
@@ -84,6 +84,20 @@ func QueryHotPro()( pros []entity.Product,err error){
 	return pros,nil
 }
 /*
+	产品和数据库交互的代码，查询，
+	根据产品名进行查询,并返回查询到的结果
+*/
+func QueryProByName(name string) (entity.Product){
+	fmt.Println("根据name进行查询")
+	var pro entity.Product
+	product := pro.QueryProductByName(&name)
+	fmt.Println(product)
+	//返回查询到的产品
+	return product
+}
+
+
+/*
 	增
 */
 
@@ -94,17 +108,3 @@ func QueryHotPro()( pros []entity.Product,err error){
 /*
 	改
 */
-
-/*
-	产品和数据库交互的代码，查询，
-	根据产品名进行查询,并返回查询到的结果
-*/
-
-func QueryProByName(name string) (entity.Product){
-	fmt.Println("根据name进行查询")
-	var pro entity.Product
-	product := pro.QueryProductByName(&name)
-	fmt.Println(product)
-	//返回查询到的产品
-	return product
-}

@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>度生活</title>
+    <!--这个就是项目打开的主页index -->
+    <!--CSS样式 -->
     <link rel="stylesheet" href="../static/css/product.css">
+    <!--JQuery框架包 -->
     <script src="/static/js/jquery-3.3.1.min.js"></script>
+    <!--Js脚本 -->
     <script src="/static/js/product.js"></script>
 </head>
 <body>
@@ -22,14 +26,14 @@
             </h1>
         </a>
     </div>
-    <div class="search">
+    <div class="search"> <!--搜索区 -->
         <form>
             <div class="text">
-                <input type="text" class="shuru"  id="shuru" placeholder="小度真无线智能耳机S1">
+                <input type="text" class="shuru" id="shuru" placeholder="小度真无线智能耳机S1">
             </div>
             <div class="submit" id="submit">
                 <!--利用Ajax提交搜索请求-->
-                <input type="text" class="sousuo" id="sousuo" value="搜索" onclick="searchPro()"/>
+                <input type="button" class="sousuo" id="sousuo" value="搜索" onclick="searchPro()"/>
             </div>
             <div class="clear"></div>
         </form>
@@ -54,14 +58,14 @@
                 <li class="li1">限时秒杀<span class="jian"> > </span></li>
             </ul>
         </a>
+        <!--定位到页面的图片中-->
         <a href="https://dumall.baidu.com/" class="xiaodushangcheng">小度商城</a>
     </div>
 </div>
 <!-- end banner_y -->
 
 <!-- start sub_banner -->
-<!-- 利用模板语法把查询到的结果集，具体显示在页面中，遍历传递的结果集-->
-
+<!-- 利用模板语法把查询到的结果集，具体显示在页面中，非遍历传递的结果集-->
 <div class="box4">
     <ul class="ul4">
         <li class="li4">精品推荐</li>
@@ -100,27 +104,30 @@
     <div class="biaoti">小度明星单品</div>
     <div class="main">
         <div class="mingxing">
-            <div class="sub_mingxing"><a href="productInfo?id=1&producer=小度&price=129.00"><img
+            <div class="sub_mingxing"><a href="productInfo?id=1&producer=小度"><img
                             src="../static/img/xdznyx.jpg" alt=""></a></div>
+            {{/*
             <div class="pinpai"><a href="/productInfo?id=1&producer=小度&price=129.00">小度智能音箱</a></div>
+*/}}
+            <div class="pinpai"><a href="/productInfo?id=1&producer=小度">小度智能音箱</a></div>
             <div class="youhui">智能语音对话、语音控制家电，超高性价比、海量资源、生活小助手</div>
             <div class="jiage"> ￥129.00</div>
         </div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=2&producer=小度&price=79.00"><img
+            <div class="sub_mingxing"><a href="productInfo?id=2&producer=小度"><img
                             src="https://product-online.cdn.bcebos.com/1620126545781215.png?x-bce-process=image/quality,q_80/format,f_auto/interlace,i_progressive"
                             alt=""></a></div>
-            <div class="pinpai"><a href="productInfo?id=2&producer=小度&price=79.00">小度真无线智能耳机S1</a></div>
+            <div class="pinpai"><a href="productInfo?id=2&producer=小度">小度真无线智能耳机S1</a></div>
             <div class="youhui">千元级通透音质，16小时无忧续航</div>
             <div class="jiage">
                 ￥79.00
             </div>
         </div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=11&producer=小度&price=1999.00"><img
+            <div class="sub_mingxing"><a href="productInfo?id=11&producer=小度"><img
                             src="https://product-online.cdn.bcebos.com/1632810201149275.jpg?x-bce-process=image/quality,q_80/format,f_auto/interlace,i_progressive"
                             alt=""></a></div>
-            <div class="pinpai"><a href="productInfo?id=11&producer=小度&price=1999.00">
+            <div class="pinpai"><a href="productInfo?id=11&producer=小度">
                     小度智能学习平板 S16</a></div>
             <div class="youhui">送199元辅学套装，晒单返50元现金</div>
             <div class="jiage">
@@ -128,10 +135,10 @@
             </div>
         </div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=4&producer=小度&price=4199.00"><img
+            <div class="sub_mingxing"><a href="productInfo?id=4&producer=小度"><img
                             src="https://product-online.cdn.bcebos.com/1637313177961430.jpg?x-bce-process=image/quality,q_80/format,f_auto/interlace,i_progressive"
                             alt=""></a></div>
-            <div class="pinpai"><a href="productInfo?id=4&producer=小度&price=4199.00">添添智能健身镜 先锋版</a></div>
+            <div class="pinpai"><a href="productInfo?id=4&producer=小度">添添智能健身镜 先锋版</a></div>
             <div class="youhui">【12月21日 10:00开抢】含健身会员季卡，按要求足时完成300天打卡，可享全额退款。</div>
             <div class="jiage">
                 ￥4199.00
@@ -144,25 +151,25 @@
         <div class="clear"></div>
     </div>
 </div>
-
+<!--京东精品推荐 -->
 <div class="danpin">
     <div class="main">
         <div class="biaoti">京东精品推荐</div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=7&producer=京东&price=9.9"><img
+            <div class="sub_mingxing"><a href="productInfo?id=7&producer=京东"><img
                             src="https://img13.360buyimg.com/seckillcms/s500x500_jfs/t1/188787/8/10737/137462/60d972aeE5da5c507/34fa177de3d16f84.jpg"
                             alt=""></a></div>
-            <div class="pinpai"><a href="productInfo?id=7&producer=京东&price=9.90">风味坐标 精选一等五星和田大枣</a></div>
+            <div class="pinpai"><a href="productInfo?id=7&producer=京东">风味坐标 精选一等五星和田大枣</a></div>
             <div class="youhui">蜜饯果干 新疆特产 和田大枣可夹核桃 精选新疆骏枣 量贩装零食</div>
             <div class="jiage">
                 ￥9.9
             </div>
         </div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=8&producer=京东&price=2599"><img
+            <div class="sub_mingxing"><a href="productInfo?id=8&producer=京东"><img
                             src="https://img10.360buyimg.com/seckillcms/s500x500_jfs/t1/200436/31/19574/165240/61aee568E61cf7774/a896850a7c493b69.jpg"
                             alt=""></a></div>
-            <div class="pinpai"><a href="productInfo?id=8&producer=京东&price=2599">realme 真我GT 大师探索版晨曦 8GB+128GB</a>
+            <div class="pinpai"><a href="productInfo?id=8&producer=京东">realme 真我GT 大师探索版晨曦 8GB+128GB</a>
             </div>
             <div class="youhui">120Hz三星AMOLED曲面屏 索尼IMX766传感器 骁龙870 晨曦 8GB+128GB 双模5G手机 gt</div>
             <div class="jiage">
@@ -170,17 +177,17 @@
             </div>
         </div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=9&producer=京东&price=2399"><img
+            <div class="sub_mingxing"><a href="productInfo?id=9&producer=京东"><img
                             src="https://img14.360buyimg.com/seckillcms/s500x500_jfs/t1/160466/3/23604/187375/61bc0c15E956879d1/1f1cb04708e87d6d.jpg"
                             alt=""></a></div>
-            <div class="pinpai"><a href="productInfo?id=9&producer=京东&price=2399">京造橡木实木床 1.8米床</a></div>
+            <div class="pinpai"><a href="productInfo?id=9&producer=京东">京造橡木实木床 1.8米床</a></div>
             <div class="youhui">橡木实木床 双人床1.8米床 现代简约 原木色 安象系列</div>
             <div class="jiage">
                 ￥2399.00
             </div>
         </div>
         <div class="mingxing fl">
-            <div class="sub_mingxing"><a href="productInfo?id=10&producer=京东&price=17300.00"><img
+            <div class="sub_mingxing"><a href="productInfo?id=10&producer=京东"><img
                             src="https://img10.360buyimg.com/seckillcms/s500x500_jfs/t1/156307/38/23968/94863/618b9077E4ff9439c/db84fa13e5eefbbb.jpg"
                             alt=""></a></div>
             <div class="pinpai"><a href="productInfo?id=10&producer=京东">艾美手表三眼计时机械腕表</a></div>

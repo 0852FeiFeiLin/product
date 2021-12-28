@@ -1,7 +1,10 @@
 //利用Ajax提交搜索请求
 function searchPro() {
     var proInfo = $("#shuru").val()
-    console.log(proInfo)
+/*    if (proInfo === 0){ //如果用户没有输入，是点击的提示里面的内容，
+        var proInfo2 = $("#shuru").attr("placeholder")
+    }*/
+    console.log( proInfo)
     //ajax发起请求
     $.ajax({
         url:"/searchPro",

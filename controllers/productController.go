@@ -13,13 +13,11 @@ import (
  * @DateTime: 2021/12/18 10:35
  **/
 /*
-	这个是product的控制层，根据具体的请求，来实现具体的操作
+	这个是product产品的控制层，根据具体的请求，来实现具体的操作
 */
-
 type ProductController struct {
 	BaseController
 }
-
 /*
 	跳转到product.html
 */
@@ -40,34 +38,18 @@ func (p *ProductController) ToProduct() {
 	//创建map
 	var products = make(map[string]interface{})
 	for i, pro := range pros {
-		//吧值全部添加到键值对的map集合里
+		//全部添加到键值对的map集合里
 		products["Product"+strconv.Itoa(i)] = pro
-/*		p.Data["Product"+strconv.Itoa(i)] = pro.ProductName
-*/
+		/*p.Data["Product"+strconv.Itoa(i)] = pro.ProductName*/
 	}
 	fmt.Println(products)
+	//遍历map，然后将map的值全部模板语法发送到前端
 	for k, v := range products {
 	/*	fmt.Println(k )
 		fmt.Println(v)*/
-		p.Data[k] = v
-
+		p.Data[k] = v   //p.Data["Product1"] = pro.ProductName
 	}
-
 	/*p.Data["Product0"] = products["Product0"]
-	p.Data["Product1"] = products["Product1"]
-*/
-
+	p.Data["Product1"] = products["Product1"]*/
 }
 
-/*
-	产品显示的具体逻辑
-*/
-func (p *ProductController) Product() {
-	/*	pros, err := models.QueryHotPro()
-		if err != nil {
-			fmt.Println(err.Error())
-			return
-		}
-		p.Data["product"] = pros
-	*/
-}

@@ -17,32 +17,32 @@ import (
 func LogInfo(v interface{}){ //v 就是我们要传递的日志
 	conf := beego.AppConfig
 	//拿到运行模式
-	runmode := conf.String("runmode")
-	if runmode == "dev"{
+	runMode := conf.String("runmode")
+	if runMode == "dev"{
 		logs.Info(v)  //写入日志
 	}
 }
 func LogError(v interface{}){
 	conf := beego.AppConfig
 	//拿到运行模式
-	runmode := conf.String("runmode")
-	if runmode == "dev"{
+	runMode := conf.String("runmode")
+	if runMode == "dev"{
 		logs.Error(v)  //写入日志
 	}
 }
 func LogWarning(v interface{}){
 	conf := beego.AppConfig
 	//拿到运行模式
-	runmode := conf.String("runmode")
-	if runmode == "dev"{
+	runMode := conf.String("runmode")
+	if runMode == "dev"{
 		logs.Warning(v)  //写入日志
 	}
 }
 func LogDebug(v interface{}){
 	conf := beego.AppConfig
 	//拿到运行模式
-	runmode := conf.String("runmode")
-	if runmode == "dev"{
+	runMode := conf.String("runmode")
+	if runMode == "dev"{
 		logs.Debug(v)  //写入日志
 	}
 }
@@ -50,8 +50,8 @@ func LogDebug(v interface{}){
 func LogTrace (v interface{}){
 	conf := beego.AppConfig
 	//拿到运行模式
-	runmode := conf.String("runmode")
-	if runmode == "dev"{
+	runMode := conf.String("runmode")
+	if runMode == "dev"{
 		logs.Trace(v)  //写入日志
 	}
 }

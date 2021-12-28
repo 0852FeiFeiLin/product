@@ -16,7 +16,7 @@ func (this ExitController)Exit(){
 
 	//删除session
 	this.DelSession("userName")
-	fmt.Println("Session:",this.GetSession("userName"))
+	fmt.Println("Session:",this.GetSession("userName"))//检查
 
 	//请求重定向
 	this.Redirect("/",302)

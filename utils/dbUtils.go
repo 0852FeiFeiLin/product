@@ -16,15 +16,15 @@ import (
 /*
 	orm操作数据库，增删改查
 	解耦：userModules ---> dbUtils --->database
-	models ---> orm ---> database
+	改变：models ---> orm ---> database
 */
 
 /*
-	连接 ，好像这一系列操作都能直接写在models层
+	好像这一系列操作都能直接写在models层，所以我直接写在models里面了
 */
 
 /*
-	查询：传递有数据的结构体过来，然后我们在这里面，根据具体的结构体数据去限定查询条件，然后返回结果集
+	查询：传递有数据的结构体过来，然后我们在这里面，根据具体的结构体数据去限定查询条件，然后返回结果集（写在了models层）
 */
 func QueryProduct(pro entity.Product)(p entity.Product){
 	//开启可调式

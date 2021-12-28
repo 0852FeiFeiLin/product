@@ -15,7 +15,7 @@ import (
  * @DateTime: 2021/12/18 10:27
  **/
 /*
-	本类对应的是数据库产品的实体类，实现具体字段
+	对应的是数据库产品的实体类，实现具体字段
 */
 type Product struct {
 	Id          int    `form:"id" orm:"column(id)"`
@@ -26,6 +26,7 @@ type Product struct {
 	Price float64 `form:"price" orm:"column(price)"`
 }
 
+//接口
 type ProductInterface interface {
 	QueryProduct(product Product) Product
 	QueryProductByName(product Product) Product
@@ -43,6 +44,8 @@ func init() {
 func (product *Product) TableName() string {
 	return "product_tb"
 }
+
+
 /*
 	查询产品的方法实现，具体定义在Product接口里面
 */
@@ -74,6 +77,7 @@ func (p Product) QueryProduct(pro Product) Product {
 	}
 	return product
 }
+
 func (p Product) QueryProductByName(proName *string) (pro Product){
 	//开启可调式
 	orm.Debug = true

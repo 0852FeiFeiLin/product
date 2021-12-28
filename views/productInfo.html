@@ -5,12 +5,11 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>产品详情</title>
+    <title>小度商城</title>
 
     <link rel="stylesheet" href="/static/css/productInfo.css">
     <script src="/static/js/jquery-3.3.1.min.js"></script>
     <script src="/static/js/productInfo.js"></script>
-
 </head>
 <body>
 <!--本来我想的是，点击每一个框，都能直接跳转到他的官方网站上面，
@@ -19,10 +18,8 @@
  -->
 {{template "header.html".}}
 <img src="/static/img/xiaoduimg/xiaoduLogo.png" alt="">
-{{/*{{.ProductName }}*/}}
 
 <div class="productInfoBox">
-
     {{range .ProductInfo}}
         <div class="id" id="id">
             {{.Id}}
@@ -32,13 +29,13 @@
             <h2>{{.ProductName}}</h2>
         </div>
         <div class="producer">{{.Producer}}</div>
-         <div class="price">￥{{.Price}}元</div>
+        <div class="price">￥{{.Price}}元</div>
         <div class="createTime">{{.CreateTime}}</div>
         <div class="content">{{.Content}}</div>
         <div class="xiangqing" align="center"><a href="https://dumall.baidu.com/">商品详情</a></div>
         <!-- <img src="/static/img/xiaoduimg/pro{{.Id}}/bg{{.Id}}.png" alt=""> -->
     {{end}}
-    <!-- 这个是验证用户是否登录的-->
+    <!-- 这个是验证用户是否登录的，我利用了js获取这个input的值，如果isLogin ==>下面的加入购物车可点击 -->
     <input type="hidden" value="{{.IsLogin}}" id="isLogin">
     <div class="shopping">
         <div class="price" id="price">￥{{.Price}}元</div>

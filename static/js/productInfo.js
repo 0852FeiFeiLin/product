@@ -1,8 +1,5 @@
 function input_disabled() {
-
     /*    $("#goto_cart").hide();*/
-
-
 }
 
 $(function () {
@@ -25,13 +22,11 @@ $(function () {
     $("#header-close").click(function () {
         $("#goto_cart").hide();
         $("#pop").hide()
-
     })
 })
 
 
 /*
-
 
 /!*这个是设置详情图片的方法*!/
 $(function () {
@@ -48,6 +43,5 @@ $(function () {
         *!/
         //通过css设置背景图
         $(this).css("background-image", "url(./static/img/xiaoduimg/pro" + id + "/bg" + (index + 1) + ".png)")
-
     })
 })*/

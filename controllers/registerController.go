@@ -25,7 +25,9 @@ type RegisterController struct {
 func (r *RegisterController) ToRegister() {
 	r.TplName = "register.html"
 }
-
+/*
+	注册具体逻辑
+*/
 func (r *RegisterController) Register(){
 	var user entity.User
 	err := r.ParseForm(&user)
@@ -37,7 +39,7 @@ func (r *RegisterController) Register(){
 	fmt.Println("前端user:",user)
 	fmt.Println("前端rePassword:",rePwd)
 
-	//判断两次输入的密码一不一样，不需要，我们在前端阻止了
+	//判断两次输入的密码一不一样，(不需要，我们在前端ajax阻止了)
 	rs := models.Register(&user)
 	if rs <= 0 {
 		fmt.Println("注册失败")

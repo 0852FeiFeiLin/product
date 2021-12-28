@@ -19,25 +19,17 @@ type User struct {
 	Username string `form:"username" orm:"column(username)"`
 	Password string `form:"password" orm:"column(password)"`
 	Email    string `form:"email" orm:"column(email)"`
+
 }
 
-/*
-	定义具体的接口，规定user操作的一系列方法和功能,具体的实现代码在models层
-*/
-type UserInterface interface {
-	Login()
-	Register()
-	DeleteUser()
-	UpdateUser()
-	QueryUserByName(name string) (error, User)
-	QueryUser(user User) (error, User)
-}
 
-//注册模型
+
+//注册模型 (已经在product的init里面设置了)
 /*func init() {
 	orm.RegisterModel(new(User))
 	orm.RunSyncdb("user_tb", false, true)
 }*/
+
 func (u *User) TableName() string {
 	return "user_tb"
 }

@@ -18,9 +18,10 @@ import (
 /*
 	用户和数据库交互的代码：注册，登录，更新，注销等等
 */
+
 /*
-	登录：根据用户时输入的用户名和密码进行查询，密码在传递前进行md4加密了
-		登录成功并返回查询到的用户
+	登录：根据用户时输入的用户名和密码进行查询，密码在传递前进行md5加密了，（验证登录的时候也是直接md5加密后和数据库进行比对）
+		登录成功并返回查询到的用户，
 */
 func Login(user *entity.User)(entity.User,error){
 	//开启orm调试
@@ -30,9 +31,9 @@ func Login(user *entity.User)(entity.User,error){
 		logUtil.LogError(err)
 		fmt.Println(err.Error())
 	}
-	if queryUser.Id <0 {
+	/*if queryUser.Id <0 { 好像是多余的
 		fmt.Println("没有查询到",queryUser.Id)
-	}
+	}*/
 	fmt.Println(queryUser)
 	//返回查询到的user
 	return queryUser,nil

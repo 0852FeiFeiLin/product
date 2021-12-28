@@ -28,7 +28,7 @@ type BaseController struct {
 }
 /*
 	这是是获取session的方法，如果获取的userName为空，
-	那么就代表还没登录，那么就跳转到登录页面
+	那么就代表还没登录，
 */
 func (c *BaseController)Prepare(){ //这个方法在init之后。发送请求之前
 	userName := c.GetSession("userName")

@@ -21,7 +21,7 @@ type AJAXController struct {
 }
 
 /*
-	这个是通过ajax请求，来判断用户名是否已经存在
+	通过ajax请求，来判断用户名是否已经存在
 */
 func (a *AJAXController) IsRegister() {
 	ajax := a.IsAjax()
@@ -37,7 +37,6 @@ func (a *AJAXController) IsRegister() {
 	if err != nil {
 		fmt.Println(err.Error())
 		logUtil.LogError(err)
-
 		return
 	}
 	//判断是否存在
@@ -53,12 +52,11 @@ func (a *AJAXController) IsRegister() {
 	/*
 		controller.ServerJSON()自动将模板的数据进行json格式封装，然后显示在前端
 		controller.ServerXML() 自动将controller.Data["XML"]中的数据按照XML格式进行组装。
-
 	*/
 }
 
 /*
-	这个是处理前端用户通过搜索框发起的请求，b
+	这个是处理前端用户通过搜索框search发起的请求，
 */
 func (a *AJAXController) SearchPro() {
 	isajax := a.IsAjax()
