@@ -34,7 +34,7 @@ func main() {
 	//设置日志 输出格式
 	logs.SetLogger("file")
 	//设置输出引擎
-	logs.SetLogger(logs.AdapterFile, `{"filename":"errlogs.log",
+	logs.SetLogger(logs.AdapterFile, `{"filename":"log/errlogs.log",
 	"level":7,
 	"maxlines":0,
 	"maxsize":0,

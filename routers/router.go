@@ -19,7 +19,6 @@ func init() {
 
     //显示和产品相关
     beego.Router("/product.html",&controllers.ProductController{},"get:ToProduct")
-
     //产品详情页面
 	beego.Router("/productInfo",&controllers.ProductInfoController{},"get:ProductInfo")
 
